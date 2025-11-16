@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -396,7 +396,6 @@ export default function Home() {
               ]
             }
           ]}
-          brandName="PawCare Pro"
           copyrightText="© 2025 | PawCare Pro - Your Pet's Best Friend"
         />
       </div>
